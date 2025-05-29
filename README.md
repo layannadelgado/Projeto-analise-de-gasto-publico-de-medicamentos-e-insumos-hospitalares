@@ -23,12 +23,19 @@ Este projeto analisa dados públicos de compras realizadas por municípios brasi
 
 ---
 
+## 📂 Base de Dados
+
+A análise foi desenvolvida a partir do arquivo **`Bases compiladas - 2023 a 2024.xlsx`**, que reúne em uma única planilha os registros de compras do governo federal para os anos de 2023 e 2024.  
+Essa consolidação foi obtida a partir dos conjuntos de dados públicos do Portal de Compras do Governo Federal (ComprasNet).
+
+- **Linhas na versão bruta:** **62 159**  
+- **Linhas após limpeza e tratamento:** **35 707**
+
+---
+
 ## 🧼 Tratamento e Limpeza dos Dados
 
 Durante a preparação dos dados em Python, as seguintes etapas foram realizadas:
-
--  **Tamanho inicial do banco de dados:** linhas: 62.159 
--  **Tamanho após o tratamento:** linhas: 35.707
 
 ### ✅ Transformações Aplicadas
 
