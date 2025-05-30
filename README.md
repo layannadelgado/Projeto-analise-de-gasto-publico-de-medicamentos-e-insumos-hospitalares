@@ -71,5 +71,9 @@ Durante a preparação dos dados em Python, as seguintes etapas foram realizadas
 - **Soma Total de Compras (`Preço Total`)**
 - **Preço Médio dos Produtos**  
 
+---
+
+### 📈 Conclusão
+Este projeto demonstra a importância da análise de dados no setor público. Com um pipeline bem estruturado — desde a aquisição, limpeza, concatenação e categorização dos dados até a visualização em dashboard —, é possível gerar insights valiosos para a gestão estratégica em saúde pública.
 
 
